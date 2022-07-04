@@ -4,11 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technology stack:
 
- ReactJS and React-Router
+ ReactJS 
+ 
+ React-Router
  
  REST API
  
  CSS
+ 
+ JS
 
 
 ## Available Scripts
