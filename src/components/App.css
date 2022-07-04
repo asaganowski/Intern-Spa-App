@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-size: larger;
+}
+
+table,tr,td,th {
+  margin: 20px auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+
+.pagination{
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-top: 20%;
+  align-items: center;
+}
+
+
+
+.pagination a{
+  border: 1px blue solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin:40px 5px;
+  color: blue;
+  background-color: white;
+  cursor: pointer;
+  transition: background-color .5s, color .5s;
+  
+}
+
+.pagination a:hover{
+ background-color: blue;
+ color: rgb(255, 255, 255);
+}
+
+
+
+
