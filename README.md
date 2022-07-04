@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technology stack:
+### ReactJS and React-Router
+### REST API
+### CSS
+
+
 ## Available Scripts
 
 In the project directory, you can run:
