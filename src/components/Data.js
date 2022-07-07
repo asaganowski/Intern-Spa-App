@@ -6,7 +6,7 @@ export default function Data({obj, inputID}){
     let filteredObj = obj?.filter((el) => {
        
         
-        while(inputID === '' || inputID === el.id) {
+        while(inputID === '' || inputID == el.id) {
             return el;
         }
        
@@ -33,7 +33,7 @@ export default function Data({obj, inputID}){
                 <tr key={item.id}>
                     {Object.keys(item).map(prop=>{
                       
-                        if(prop === "id" || prop === "name" ||prop === "year")
+                        if(prop === "id" || prop === "name" || prop === "year")
                             return <td key={prop} style={{backgroundColor: item["color"]}}>{item[prop]}</td>
                             
                         
