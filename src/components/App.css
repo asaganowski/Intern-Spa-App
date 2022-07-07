@@ -12,12 +12,11 @@ table,tr,td,th {
 
 
 .pagination{
-  margin: 40px;
-  display: flex;
-  justify-content: center;
   list-style: none;
-  margin-top: 20%;
+  display: flex; 
   align-items: center;
+  justify-content: center;
+  padding: 0;
 }
 
 
