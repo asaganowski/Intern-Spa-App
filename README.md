@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ReactJS 
  
- REST API
+ API
  
  CSS
  
